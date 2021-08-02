@@ -3,4 +3,5 @@
 
 [**YouTube Channe**l](https://www.youtube.com/channel/UCqWN59-FWvGqIlawe-I57iA)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=T-727)](https://github.com/T-727/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-727&repo=github-readme-stats)](https://github.com/T-727/github-readme-stats)
+
