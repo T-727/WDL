@@ -6,4 +6,4 @@
 
 [**YouTube Channe**l](https://www.youtube.com/channel/UCqWN59-FWvGqIlawe-I57iA)
 
-[![T727-WDL stats](https://github-readme-stats.vercel.app/api?username=T-727)](https://github.com/anuraghazra/github-readme-stats)
+[![T-727-WDL stats](https://github-readme-stats.vercel.app/api?username=T-727)](https://github.com/anuraghazra/github-readme-stats)
