@@ -5,3 +5,5 @@
 - Click the first asset
 
 [**YouTube Channe**l](https://www.youtube.com/channel/UCqWN59-FWvGqIlawe-I57iA)
+
+![](https://github-readme-stats.vercel.app/api?username=T-727&show_icons=true&theme=dark)
